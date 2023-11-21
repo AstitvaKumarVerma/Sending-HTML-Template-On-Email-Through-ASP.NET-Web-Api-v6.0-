@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "8se6ZPlB6yFrgcnkSz/RebsLDYbEQvWSesB9bIaYXqk=",
+  "Source": "Send_HTML_TemplateOnEmail",
+  "BasePath": "_content/Send_HTML_TemplateOnEmail",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Send_HTML_TemplateOnEmail\\wwwroot",
+      "Source": "Send_HTML_TemplateOnEmail",
+      "ContentRoot": "D:\\AstitvaKumarVerma\\New Assesments\\21-November-2023 (HTML Template on Email)\\Send_HTML_TemplateOnEmail\\Send_HTML_TemplateOnEmail\\wwwroot\\",
+      "BasePath": "_content/Send_HTML_TemplateOnEmail",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\AstitvaKumarVerma\\New Assesments\\21-November-2023 (HTML Template on Email)\\Send_HTML_TemplateOnEmail\\Send_HTML_TemplateOnEmail\\wwwroot\\Template.html",
+      "SourceId": "Send_HTML_TemplateOnEmail",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AstitvaKumarVerma\\New Assesments\\21-November-2023 (HTML Template on Email)\\Send_HTML_TemplateOnEmail\\Send_HTML_TemplateOnEmail\\wwwroot\\",
+      "BasePath": "_content/Send_HTML_TemplateOnEmail",
+      "RelativePath": "Template.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Template.html"
+    }
+  ]
+}

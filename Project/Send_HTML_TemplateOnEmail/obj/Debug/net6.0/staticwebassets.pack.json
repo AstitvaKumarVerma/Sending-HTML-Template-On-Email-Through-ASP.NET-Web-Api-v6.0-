@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\AstitvaKumarVerma\\New Assesments\\21-November-2023 (HTML Template on Email)\\Send_HTML_TemplateOnEmail\\Send_HTML_TemplateOnEmail\\wwwroot\\Template.html",
+      "PackagePath": "staticwebassets\\Template.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Send_HTML_TemplateOnEmail.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Send_HTML_TemplateOnEmail.props",
+      "PackagePath": "build\\Send_HTML_TemplateOnEmail.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Send_HTML_TemplateOnEmail.props",
+      "PackagePath": "buildMultiTargeting\\Send_HTML_TemplateOnEmail.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Send_HTML_TemplateOnEmail.props",
+      "PackagePath": "buildTransitive\\Send_HTML_TemplateOnEmail.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

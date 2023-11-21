@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Send_HTML_TemplateOnEmail.props" />
+</Project>
